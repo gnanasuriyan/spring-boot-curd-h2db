@@ -1,6 +1,6 @@
 # spring-boot-curd-h2db
 
-# Sample URL
+Sample URL  
 
 # For listing users
  GET - http://localhost:8080/users  

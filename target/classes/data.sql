@@ -1,0 +1,5 @@
+insert into user values(100000, 'Gnanasuriyan', 'Anbalagan')
+insert into user values(100001, 'Jack', 'OBrian')
+insert into user values(100002, 'Chloe', 'Bauer')
+insert into user values(100003, 'Kim', 'Palmer')
+insert into user values(100004, 'David', 'Dessler')
